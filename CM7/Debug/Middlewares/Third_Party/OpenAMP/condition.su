@@ -1,0 +1,7 @@
+../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/system/generic/mutex.h:58:20:__metal_mutex_acquire	16	static
+../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/system/generic/mutex.h:65:20:__metal_mutex_release	16	static
+../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/system/generic/mutex.h:70:19:__metal_mutex_is_acquired	24	static
+../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/mutex.h:56:20:metal_mutex_acquire	16	static
+../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/mutex.h:66:20:metal_mutex_release	16	static
+../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/mutex.h:76:19:metal_mutex_is_acquired	16	static
+C:/Users/Lenovo/STM32CubeIDE/stm32H7/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/libmetal/lib/system/generic/condition.c:17:5:metal_condition_wait	64	static

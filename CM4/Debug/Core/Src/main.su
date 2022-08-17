@@ -1,0 +1,7 @@
+../Core/Src/main.c:83:5:main	64	static
+../Core/Src/main.c:164:13:MX_UART8_Init	8	static
+../Core/Src/main.c:212:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:234:12:rpmsg_recv_callback	24	static
+../Core/Src/main.c:242:14:receive_message	8	static
+../Core/Src/main.c:250:1:__io_putchar	16	static
+../Core/Src/main.c:261:6:Error_Handler	4	static,ignoring_inline_asm
