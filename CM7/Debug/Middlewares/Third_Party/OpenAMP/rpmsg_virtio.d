@@ -1,5 +1,5 @@
 Middlewares/Third_Party/OpenAMP/rpmsg_virtio.o: \
- C:/Users/Lenovo/STM32CubeIDE/stm32H7/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/open-amp/lib/rpmsg/rpmsg_virtio.c \
+ C:/Users/Lenovo/STM32CubeIDE/workspace_1.9.0/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/open-amp/lib/rpmsg/rpmsg_virtio.c \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/alloc.h \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/system/generic/alloc.h \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/cache.h \
@@ -33,7 +33,7 @@ Middlewares/Third_Party/OpenAMP/rpmsg_virtio.o: \
  ../../Middlewares/Third_Party/OpenAMP/open-amp/lib/include/openamp/virtqueue.h \
  ../../Middlewares/Third_Party/OpenAMP/open-amp/lib/include/openamp/virtio_ring.h \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/spinlock.h \
- C:/Users/Lenovo/STM32CubeIDE/stm32H7/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/open-amp/lib/rpmsg/rpmsg_internal.h
+ C:/Users/Lenovo/STM32CubeIDE/workspace_1.9.0/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/open-amp/lib/rpmsg/rpmsg_internal.h
 ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/alloc.h:
 ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/system/generic/alloc.h:
 ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/cache.h:
@@ -67,4 +67,4 @@ Middlewares/Third_Party/OpenAMP/rpmsg_virtio.o: \
 ../../Middlewares/Third_Party/OpenAMP/open-amp/lib/include/openamp/virtqueue.h:
 ../../Middlewares/Third_Party/OpenAMP/open-amp/lib/include/openamp/virtio_ring.h:
 ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/spinlock.h:
-C:/Users/Lenovo/STM32CubeIDE/stm32H7/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/open-amp/lib/rpmsg/rpmsg_internal.h:
+C:/Users/Lenovo/STM32CubeIDE/workspace_1.9.0/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/open-amp/lib/rpmsg/rpmsg_internal.h:

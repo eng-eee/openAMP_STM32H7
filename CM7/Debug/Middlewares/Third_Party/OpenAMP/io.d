@@ -1,5 +1,5 @@
 Middlewares/Third_Party/OpenAMP/io.o: \
- C:/Users/Lenovo/STM32CubeIDE/stm32H7/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/libmetal/lib/io.c \
+ C:/Users/Lenovo/STM32CubeIDE/workspace_1.9.0/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/libmetal/lib/io.c \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/errno.h \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/io.h \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/assert.h \

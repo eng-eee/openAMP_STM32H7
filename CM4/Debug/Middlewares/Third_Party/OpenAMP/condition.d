@@ -1,5 +1,5 @@
 Middlewares/Third_Party/OpenAMP/condition.o: \
- C:/Users/Lenovo/STM32CubeIDE/stm32H7/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/libmetal/lib/system/generic/condition.c \
+ C:/Users/Lenovo/STM32CubeIDE/workspace_1.9.0/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/libmetal/lib/system/generic/condition.c \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/condition.h \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/mutex.h \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/system/generic/mutex.h \

@@ -1,5 +1,5 @@
 Middlewares/Third_Party/OpenAMP/remoteproc_virtio.o: \
- C:/Users/Lenovo/STM32CubeIDE/stm32H7/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/open-amp/lib/remoteproc/remoteproc_virtio.c \
+ C:/Users/Lenovo/STM32CubeIDE/workspace_1.9.0/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/open-amp/lib/remoteproc/remoteproc_virtio.c \
  ../../Middlewares/Third_Party/OpenAMP/open-amp/lib/include/openamp/remoteproc.h \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/io.h \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/assert.h \

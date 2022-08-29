@@ -1,5 +1,5 @@
 Middlewares/Third_Party/OpenAMP/virtio.o: \
- C:/Users/Lenovo/STM32CubeIDE/stm32H7/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/open-amp/lib/virtio/virtio.c \
+ C:/Users/Lenovo/STM32CubeIDE/workspace_1.9.0/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/open-amp/lib/virtio/virtio.c \
  ../../Middlewares/Third_Party/OpenAMP/open-amp/lib/include/openamp/virtio.h \
  ../../Middlewares/Third_Party/OpenAMP/open-amp/lib/include/openamp/virtqueue.h \
  ../../Middlewares/Third_Party/OpenAMP/open-amp/lib/include/openamp/virtio_ring.h \

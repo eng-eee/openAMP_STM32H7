@@ -1,5 +1,5 @@
 Middlewares/Third_Party/OpenAMP/shmem.o: \
- C:/Users/Lenovo/STM32CubeIDE/stm32H7/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/libmetal/lib/shmem.c \
+ C:/Users/Lenovo/STM32CubeIDE/workspace_1.9.0/OpenAMP_demo/Middlewares/Third_Party/OpenAMP/libmetal/lib/shmem.c \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/errno.h \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/assert.h \
  ../../Middlewares/Third_Party/OpenAMP/libmetal/lib/include/metal/system/generic/assert.h \
